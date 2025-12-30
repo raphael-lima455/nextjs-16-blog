@@ -1,5 +1,6 @@
 # Next.js Blog Platform
 A modern blog application built with Next.js, shadcn/ui, Better Auth, and Convex, featuring real-time interactions and collaborative reading experiences.
+
 ---
 ## Technologies Used
 - Next.js  
@@ -10,6 +11,7 @@ A modern blog application built with Next.js, shadcn/ui, Better Auth, and Convex
 ---
 ## System Overview
 The app features a real-time backend powered by Convex, with authentication handled by Better Auth. The platform enables users to create and manage blog articles while interacting through comments, all synchronized in real-time across all connected clients.
+
 ---
 ## Features
 - **User Authentication**: Email and password registration/login system with Better Auth  
